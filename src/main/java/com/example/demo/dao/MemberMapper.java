@@ -4,11 +4,7 @@ import com.example.demo.model.Member;
 import com.example.demo.model.MemberExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
-import org.springframework.stereotype.Repository;
 
-import javax.annotation.Resource;
-
-@Repository
 public interface MemberMapper {
     long countByExample(MemberExample example);
 
