@@ -1,0 +1,264 @@
+[2018-03-03 15:25:16] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 1760 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 15:25:16] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 15:25:16] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 15:25:19] INFO  57 logStarted - Started DemoApplication in 3.244 seconds (JVM running for 4.009)
+[2018-03-03 15:27:06] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 7752 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 15:27:06] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 15:27:06] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 15:27:09] INFO  57 logStarted - Started DemoApplication in 3.042 seconds (JVM running for 3.711)
+[2018-03-03 15:28:08] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 25016 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 15:28:08] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 15:28:08] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 15:28:11] INFO  57 logStarted - Started DemoApplication in 3.099 seconds (JVM running for 3.739)
+[2018-03-03 15:28:33] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 29796 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 15:28:33] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 15:28:33] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 15:28:36] INFO  57 logStarted - Started DemoApplication in 2.97 seconds (JVM running for 3.646)
+[2018-03-03 15:28:59] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 30500 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 15:28:59] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 15:28:59] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 15:29:01] INFO  57 logStarted - Started DemoApplication in 2.931 seconds (JVM running for 3.63)
+[2018-03-03 15:31:49] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 31112 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 15:31:49] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 15:31:49] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 15:31:52] INFO  57 logStarted - Started DemoApplication in 3.101 seconds (JVM running for 3.764)
+[2018-03-03 16:00:59] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 44900 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 16:00:59] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 16:00:59] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 16:01:01] INFO  57 logStarted - Started DemoApplication in 2.528 seconds (JVM running for 3.211)
+[2018-03-03 16:02:26] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 45988 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 16:02:26] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 16:02:26] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 16:02:29] INFO  57 logStarted - Started DemoApplication in 3.081 seconds (JVM running for 3.707)
+[2018-03-03 16:05:42] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 46500 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 16:05:42] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 16:05:42] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 16:05:45] INFO  57 logStarted - Started DemoApplication in 3.083 seconds (JVM running for 3.705)
+[2018-03-03 16:06:06] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 46220 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 16:06:06] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 16:06:06] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 16:06:09] INFO  57 logStarted - Started DemoApplication in 3.118 seconds (JVM running for 3.805)
+[2018-03-03 16:07:05] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 44884 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 16:07:05] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 16:07:05] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 16:07:08] INFO  57 logStarted - Started DemoApplication in 3.141 seconds (JVM running for 3.808)
+[2018-03-03 16:21:27] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 53172 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 16:21:27] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 16:21:27] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 16:21:30] INFO  57 logStarted - Started DemoApplication in 3.208 seconds (JVM running for 3.88)
+[2018-03-03 16:24:57] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 54040 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 16:24:57] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 16:24:57] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 16:25:00] INFO  57 logStarted - Started DemoApplication in 3.065 seconds (JVM running for 3.699)
+[2018-03-03 16:27:52] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 57184 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 16:27:52] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 16:27:52] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 16:27:55] INFO  57 logStarted - Started DemoApplication in 3.052 seconds (JVM running for 3.704)
+[2018-03-03 16:28:53] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 53444 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 16:28:53] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 16:28:53] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 16:28:55] INFO  57 logStarted - Started DemoApplication in 3.158 seconds (JVM running for 3.793)
+[2018-03-03 16:50:01] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 62024 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 16:50:01] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 16:50:01] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 16:50:04] INFO  57 logStarted - Started DemoApplication in 3.072 seconds (JVM running for 3.721)
+[2018-03-03 16:51:13] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 66952 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 16:51:13] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 16:51:13] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 16:51:16] INFO  57 logStarted - Started DemoApplication in 3.089 seconds (JVM running for 3.732)
+[2018-03-03 16:52:10] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 66984 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 16:52:10] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 16:52:10] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 16:52:13] INFO  57 logStarted - Started DemoApplication in 3.114 seconds (JVM running for 3.771)
+[2018-03-03 16:52:49] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 68176 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 16:52:49] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 16:52:49] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 16:52:52] INFO  57 logStarted - Started DemoApplication in 3.177 seconds (JVM running for 3.851)
+[2018-03-03 16:58:44] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 70632 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 16:58:44] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 16:58:44] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 16:58:47] INFO  57 logStarted - Started DemoApplication in 3.096 seconds (JVM running for 3.79)
+[2018-03-03 17:02:09] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 70080 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:02:09] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:02:09] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:02:12] INFO  57 logStarted - Started DemoApplication in 3.127 seconds (JVM running for 3.812)
+[2018-03-03 17:03:46] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 72124 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:03:46] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:03:46] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:03:49] INFO  57 logStarted - Started DemoApplication in 3.157 seconds (JVM running for 3.813)
+[2018-03-03 17:05:21] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 70752 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:05:21] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:05:21] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:05:24] INFO  57 logStarted - Started DemoApplication in 3.104 seconds (JVM running for 3.729)
+[2018-03-03 17:08:40] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 74328 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:08:40] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:08:40] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:08:43] INFO  57 logStarted - Started DemoApplication in 3.046 seconds (JVM running for 3.733)
+[2018-03-03 17:09:26] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 53332 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:09:26] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:09:26] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:09:29] INFO  57 logStarted - Started DemoApplication in 3.092 seconds (JVM running for 3.771)
+[2018-03-03 17:10:00] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 74680 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:10:00] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:10:00] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:10:03] INFO  57 logStarted - Started DemoApplication in 3.022 seconds (JVM running for 3.709)
+[2018-03-03 17:11:11] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 75512 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:11:11] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:11:11] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:11:14] INFO  57 logStarted - Started DemoApplication in 3.076 seconds (JVM running for 3.757)
+[2018-03-03 17:12:36] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 75916 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:12:36] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:12:36] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:12:39] INFO  57 logStarted - Started DemoApplication in 3.073 seconds (JVM running for 3.733)
+[2018-03-03 17:13:32] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 69684 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:13:32] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:13:32] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:13:35] INFO  57 logStarted - Started DemoApplication in 3.07 seconds (JVM running for 3.719)
+[2018-03-03 17:15:09] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 76964 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:15:09] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:15:09] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:15:12] INFO  57 logStarted - Started DemoApplication in 3.104 seconds (JVM running for 3.767)
+[2018-03-03 17:17:02] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 78688 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:17:02] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:17:02] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:17:05] INFO  57 logStarted - Started DemoApplication in 3.146 seconds (JVM running for 3.822)
+[2018-03-03 17:20:55] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 78004 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:20:55] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:20:55] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:20:58] INFO  57 logStarted - Started DemoApplication in 3.083 seconds (JVM running for 3.744)
+[2018-03-03 17:23:28] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 81200 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:23:28] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:23:28] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:23:31] INFO  57 logStarted - Started DemoApplication in 3.046 seconds (JVM running for 3.677)
+[2018-03-03 17:26:09] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 75396 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:26:09] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:26:09] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:26:12] INFO  57 logStarted - Started DemoApplication in 3.082 seconds (JVM running for 3.711)
+[2018-03-03 17:27:26] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 82716 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:27:26] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:27:26] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:27:29] INFO  57 logStarted - Started DemoApplication in 3.315 seconds (JVM running for 3.984)
+[2018-03-03 17:27:33] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 83068 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:27:33] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:27:33] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:27:35] INFO  57 logStarted - Started DemoApplication in 3.099 seconds (JVM running for 3.727)
+[2018-03-03 17:29:03] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 82748 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:29:03] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:29:03] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:29:06] INFO  57 logStarted - Started DemoApplication in 3.082 seconds (JVM running for 3.728)
+[2018-03-03 17:32:21] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 85208 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:32:21] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:32:21] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:32:24] INFO  57 logStarted - Started DemoApplication in 3.105 seconds (JVM running for 3.75)
+[2018-03-03 17:33:01] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 85476 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:33:01] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:33:01] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:33:04] INFO  57 logStarted - Started DemoApplication in 3.08 seconds (JVM running for 3.726)
+[2018-03-03 17:34:36] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 83724 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:34:36] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:34:36] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:34:38] INFO  57 logStarted - Started DemoApplication in 3.1 seconds (JVM running for 3.753)
+[2018-03-03 17:37:07] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 84152 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:37:07] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:37:07] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:37:10] INFO  57 logStarted - Started DemoApplication in 3.124 seconds (JVM running for 3.768)
+[2018-03-03 17:38:04] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 80956 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:38:04] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:38:04] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:38:07] INFO  57 logStarted - Started DemoApplication in 3.115 seconds (JVM running for 3.866)
+[2018-03-03 17:38:16] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 82184 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:38:16] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:38:16] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:38:18] INFO  57 logStarted - Started DemoApplication in 3.059 seconds (JVM running for 3.707)
+[2018-03-03 17:38:57] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 74944 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:38:57] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:38:57] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:39:00] INFO  57 logStarted - Started DemoApplication in 3.068 seconds (JVM running for 3.757)
+[2018-03-03 17:40:31] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 88304 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:40:31] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:40:31] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:40:34] INFO  57 logStarted - Started DemoApplication in 3.109 seconds (JVM running for 3.871)
+[2018-03-03 17:41:18] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 87848 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:41:18] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:41:18] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:41:21] INFO  57 logStarted - Started DemoApplication in 3.029 seconds (JVM running for 3.828)
+[2018-03-03 17:46:19] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 92532 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:46:19] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:46:19] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:46:21] INFO  57 logStarted - Started DemoApplication in 3.057 seconds (JVM running for 3.705)
+[2018-03-03 17:49:07] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 94160 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:49:07] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:49:07] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:49:10] INFO  57 logStarted - Started DemoApplication in 3.134 seconds (JVM running for 3.788)
+[2018-03-03 17:51:01] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 94080 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:51:01] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:51:01] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:51:04] INFO  57 logStarted - Started DemoApplication in 3.063 seconds (JVM running for 3.764)
+[2018-03-03 17:52:59] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 94576 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:52:59] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:52:59] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:53:02] INFO  57 logStarted - Started DemoApplication in 3.19 seconds (JVM running for 3.866)
+[2018-03-03 17:54:54] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 50064 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:54:54] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:54:54] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:54:57] INFO  57 logStarted - Started DemoApplication in 3.085 seconds (JVM running for 3.743)
+[2018-03-03 17:57:16] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 39236 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:57:16] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:57:16] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:57:19] INFO  57 logStarted - Started DemoApplication in 3.044 seconds (JVM running for 3.67)
+[2018-03-03 17:58:09] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 33680 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:58:09] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:58:09] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:58:12] INFO  57 logStarted - Started DemoApplication in 3.055 seconds (JVM running for 3.74)
+[2018-03-03 17:58:47] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 68044 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:58:47] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:58:47] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:58:50] INFO  57 logStarted - Started DemoApplication in 3.261 seconds (JVM running for 3.909)
+[2018-03-03 17:59:20] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 89556 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 17:59:20] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 17:59:20] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 17:59:23] INFO  57 logStarted - Started DemoApplication in 3.146 seconds (JVM running for 3.795)
+[2018-03-03 18:00:20] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 76420 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 18:00:20] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 18:00:20] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 18:00:23] INFO  57 logStarted - Started DemoApplication in 3.06 seconds (JVM running for 3.706)
+[2018-03-03 18:01:59] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 44592 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 18:01:59] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 18:01:59] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 18:02:02] INFO  57 logStarted - Started DemoApplication in 3.09 seconds (JVM running for 3.715)
+[2018-03-03 18:02:43] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 1160 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 18:02:43] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 18:02:43] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 18:02:46] INFO  57 logStarted - Started DemoApplication in 3.089 seconds (JVM running for 3.724)
+[2018-03-03 18:03:41] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 29568 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 18:03:41] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 18:03:41] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 18:03:44] INFO  57 logStarted - Started DemoApplication in 3.136 seconds (JVM running for 3.763)
+[2018-03-03 18:03:58] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 17860 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 18:03:58] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 18:03:58] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 18:04:01] INFO  57 logStarted - Started DemoApplication in 3.022 seconds (JVM running for 3.689)
+[2018-03-03 21:03:47] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 136936 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 21:03:47] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 21:03:47] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 21:03:50] INFO  57 logStarted - Started DemoApplication in 3.374 seconds (JVM running for 4.06)
+[2018-03-03 21:03:59] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 136368 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 21:03:59] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 21:03:59] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 21:04:02] INFO  57 logStarted - Started DemoApplication in 3.022 seconds (JVM running for 3.642)
+[2018-03-03 21:31:18] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 149112 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 21:31:18] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 21:31:18] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 21:31:21] INFO  57 logStarted - Started DemoApplication in 3.079 seconds (JVM running for 3.701)
+[2018-03-03 21:33:58] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 32924 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 21:33:58] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 21:33:58] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 21:34:01] INFO  57 logStarted - Started DemoApplication in 3.149 seconds (JVM running for 3.92)
+[2018-03-03 21:35:30] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 30680 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 21:35:30] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 21:35:30] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 21:35:33] INFO  57 logStarted - Started DemoApplication in 3.116 seconds (JVM running for 3.781)
+[2018-03-03 21:39:54] INFO  48 logStarting - Starting DemoApplication on DESKTOP-AF7DVHA with PID 150108 (C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo\target\classes started by linyimin in C:\Users\linyimin\Desktop\HealthControlProject-XSQ\demo)
+[2018-03-03 21:39:54] DEBUG 51 logStarting - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-03-03 21:39:54] INFO  593 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2018-03-03 21:39:57] INFO  57 logStarted - Started DemoApplication in 3.162 seconds (JVM running for 3.914)
